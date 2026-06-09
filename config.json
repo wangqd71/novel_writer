@@ -1,0 +1,10 @@
+{
+  "ai": {
+    "api_key": "tp-cy1vke78kdzqmz70lbqo99k999s9y5jl7ryd5ukvxxi8c2k2",
+    "base_url": "https://token-plan-cn.xiaomimimo.com/v1",
+    "model": "mimo-v2.5-pro",
+    "temperature": 0.8,
+    "max_tokens": 4096
+  },
+  "projects_dir": "projects"
+}
